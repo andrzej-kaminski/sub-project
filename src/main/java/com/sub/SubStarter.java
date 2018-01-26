@@ -5,7 +5,4 @@ public class SubStarter {
         System.out.println("LOG-Sub Module Started");
     }
 
-    public void stop() {
-        System.out.println("LOG-Stop");
-    }
 }
