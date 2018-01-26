@@ -6,6 +6,6 @@ public class SubStarter {
     }
 
     public void stop() {
-        System.out.println("Stop");
+        System.out.println("LOG-Stop");
     }
 }
